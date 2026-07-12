@@ -3,4 +3,4 @@
 # and also make it easier to manage the codebase as it grows.
 
 from .cRUD_oPERATIONS import *
-from .db_config import db_config
+from .db_config import *
